@@ -1,6 +1,6 @@
 {
   "name": "rocket.e-ther-inc.com",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "private": true,
   "engines": {
     "node": ">=14",
