@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrocket_e_ther_inc_com=self.webpackChunkrocket_e_ther_inc_com||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Introduction course to React","permalink":"/blog/introduction-course"}]}')}}]);

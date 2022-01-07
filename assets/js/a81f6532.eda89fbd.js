@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrocket_e_ther_inc_com=self.webpackChunkrocket_e_ther_inc_com||[]).push([[218],{4727:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/course","name":"course","count":1,"permalink":"/blog/tags/course"}')}}]);

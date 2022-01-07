@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://rocket.e-ther-inc.com/blog</id>
+    <title>Rocket React Course Blog</title>
+    <updated>2022-01-07T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://rocket.e-ther-inc.com/blog"/>
+    <subtitle>Rocket React Course Blog</subtitle>
+    <icon>https://rocket.e-ther-inc.com/favicon/e-ther-inc-favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Introduction course to React]]></title>
+        <id>introduction-course</id>
+        <link href="https://rocket.e-ther-inc.com/blog/introduction-course"/>
+        <updated>2022-01-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The blog supports tags as well!]]></summary>
+        <content type="html"><![CDATA[<p>The blog supports tags as well!</p>]]></content>
+        <author>
+            <name>TED Vortex</name>
+            <uri>https://github.com/0-vortex</uri>
+        </author>
+    </entry>
+</feed>
