@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+### [1.0.1](https://github.com/e-ther-inc/rocket.e-ther-inc.com/compare/v1.0.0...v1.0.1) (2022-01-07)
+
+
+### 🐛 Bug Fixes
+
+* correct deploy cname ([#1](https://github.com/e-ther-inc/rocket.e-ther-inc.com/issues/1)) ([db82b50](https://github.com/e-ther-inc/rocket.e-ther-inc.com/commit/db82b5015b42acaa2d2714b8171b43702aae64e0))
+
 ## 1.0.0 (2022-01-07)
 
 
